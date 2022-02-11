@@ -145,7 +145,7 @@ var config_data = `
           "2":"Mid<br>",
           "3":"High<br>",
           "4":"Traversal<br>",
-          "x":"Successful/Not Attempted"
+          "x":"Unsuccessful/Not Attempted"
         },
         "defaultValue":"x"
       },
