@@ -1,6 +1,6 @@
 var config_data = `
 {
-  "title":"Scouting PASS 2022",
+  "title":"5740 Scouting 2022",
   "page_title":"Rapid React",
   "elements":{
     "prematch": {
