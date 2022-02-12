@@ -222,7 +222,7 @@ var config_data = `
       },
       "Confidence in your answers": {
         "code":"cnf",
-        "title": "Confidence Rating",
+        "title": "Confidence in your answers",
         "type":"radio",
         "choices":{
           "v":"Very Confident<br>",
