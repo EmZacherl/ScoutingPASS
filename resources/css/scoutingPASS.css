@@ -33,7 +33,7 @@ html, body{
     left: 0;
     top: 0;
     color: white;
-    background-color: black;
+    background-color: rgb(97, 97, 97);
 }
 
 .main-panel table{
