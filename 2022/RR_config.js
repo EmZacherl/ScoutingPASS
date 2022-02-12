@@ -64,7 +64,7 @@ var config_data = `
         "filename":"2022/field_image.png"
       }
     },
-    "auton": {
+    "auto": {
       "Taxi": {
         "code":"at",
         "title": "Taxied?",

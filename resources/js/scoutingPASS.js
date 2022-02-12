@@ -342,9 +342,9 @@ function configure(){
     idx = addElement(pmt, idx, key, value);
   });
 
-  // Configure auton screen
-  var ac = mydata.elements.auton;
-  var at = document.getElementById("auton_table");
+  // Configure auto screen
+  var ac = mydata.elements.auto;
+  var at = document.getElementById("auto_table");
   idx = 0;
   Object.entries(ac).forEach((el) => {
     const [key, value] = el;

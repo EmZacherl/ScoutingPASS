@@ -66,7 +66,7 @@ var config_data = `
         "filename":"2020/field_image.png"
       }
     },
-    "auton": {
+    "auto": {
       "Exit line": {
         "code":"ae",
         "title": "Exit Line",
