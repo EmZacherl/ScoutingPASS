@@ -220,7 +220,7 @@ var config_data = `
         "size":15,
         "maxSize":50
       },
-      "Confidence Rating": {
+      "Confidence in your answers": {
         "code":"cnf",
         "title": "Confidence Rating",
         "type":"radio",
